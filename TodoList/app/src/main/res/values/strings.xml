@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">To do List</string>
+    <string name="tarefas">Tarefas</string>
+    <string name="criar_tarefa">Criar Tarefa</string>
+</resources>
